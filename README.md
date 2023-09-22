@@ -1,0 +1,2 @@
+# Multiple-agent-deep-reinforcement-learning-algorithms-MADRL-and-game-intelligence
+We created an open-source repository that includes all relevant works and maintained the update on it in the last two years2. This repository contains links to all relevant papers and corresponding codes, which makes it easier for researchers to use and track the latest developments, and could serve as a benchmark library in this area
